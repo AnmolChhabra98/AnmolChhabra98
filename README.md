@@ -3,9 +3,9 @@
 
 <img align="right" alt="Thanks for coming!" width="350" src="https://media.giphy.com/media/KfTNwV4VVwWtTY5F65/giphy.gif">
 
-- 💻 Developer of [Sawan Photography](www.sawanphotography.com)
+- 💻 Developer of [Sawan Photography](https://www.sawanphotography.com/)
 
-- 🔭 I’m currently working on improving SEO of [Sawan Photography](www.sawanphotography.com)
+- 🔭 I’m currently working on improving SEO of [Sawan Photography](https://www.sawanphotography.com/)
 
 - 🌱 I’m currently learning **more about Java, React Js, etc.**
 
