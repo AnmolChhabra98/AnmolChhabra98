@@ -13,7 +13,7 @@
 
 - 📫 How to reach me [**Abracadabra**](mailto:anmolchhabra098@gmail.com)
 
-- 📄 Know about my experiences [AnmolChhabra](https://drive.google.com/file/d/10zgnSqThuNtUxOGOs3LtR_tJya4EDkrR/view?usp=sharing)
+- 📄 Know about my experiences [AnmolChhabra](https://drive.google.com/file/d/1jZsvMNkTKZrmKH8n8nAF_fjJ12UlF47_/view?usp=sharing)
 
 - ⚡ Fun fact **I Googled it.**
 
