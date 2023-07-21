@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **more about Java, React Js, etc.**
 
-- 💬 Ask me about **Java, React Js, Spring Boot.**
+- 💬 Ask me about **Java, Spring Boot.**
 
 - 📫 How to reach me [**Abracadabra**](mailto:anmolchhabra098@gmail.com)
 
